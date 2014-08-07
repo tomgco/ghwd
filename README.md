@@ -27,6 +27,9 @@ git remote
 
 ghwd tomgco
 # https://github.com/tomgco/myapp/tree/mybranch/some/dir
+
+ghwd tomgco foo.js
+# https://github.com/tomgco/myapp/tree/mybranch/some/dir/foo.js
 ```
 
 ## Use it faster
