@@ -13,8 +13,7 @@
   "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
   "license": "ISC",
   "bin": {
-    "ghwd": "./bin/ghwd",
-    "g": "./bin/ghwd"
+    "ghwd": "./bin/ghwd"
   },
   "preferGlobal": true
 }

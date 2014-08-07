@@ -1,6 +1,6 @@
 # ghwd
 
-Open the GitHub URL that matches your shell's current branch and working directory
+Print the GitHub URL that matches your shell's current branch and working directory
 
 ## Install it
 
