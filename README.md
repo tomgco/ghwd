@@ -20,6 +20,13 @@ ghwd
 
 ghwd foo.js
 # https://github.com/bozo/myapp/tree/mybranch/some/dir/foo.js
+
+git remote
+# origin
+# tomgco
+
+ghwd tomgco
+# https://github.com/tomgco/myapp/tree/mybranch/some/dir
 ```
 
 ## Use it faster
